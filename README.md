@@ -7,7 +7,7 @@ This repository is code factory that I reconstructed to my research and customiz
 ![horns](https://github.com/Doyosae/NeRF/blob/main/save/horns.gif)
 # Start
 ## Dataset  
-[Download Link](https://drive.google.com/file/d/1nSROtmcLvbx7xTC9lfumYhpB25zYqhuC/view?usp=sharing(
+[Download Link](https://drive.google.com/file/d/1nSROtmcLvbx7xTC9lfumYhpB25zYqhuC/view?usp=sharing)  
 ```
 Folder hierarchy
 NeRF/
