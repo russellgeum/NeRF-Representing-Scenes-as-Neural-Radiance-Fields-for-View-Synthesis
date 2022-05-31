@@ -6,10 +6,11 @@ Based code: (https://github.com/yenchenlin/nerf-pytorch)
 ![horns](https://github.com/Doyosae/NeRF/blob/main/save/horns.gif)
 # Start
 ## Training (for LLFF, Blender dataset)
+### trex config
 ```
-## trex dataset of LLFF
 python model_train.py --config configs/llff/trex.txt
-
-## horns dataset of LLFF
+```
+### horns config
+```
 python model_train.py --config configs/LLFF/horns.txt
 ```
