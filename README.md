@@ -1,5 +1,5 @@
 # NeRF
-This repository is code factory that I reconstructed to study and customizing convenience.  
+This repository is code factory that I reconstructed to my research and customizing convenience.  
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)  
 [Reference Code](https://github.com/yenchenlin/nerf-pytorch)  
 # Demo  
