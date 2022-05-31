@@ -20,12 +20,12 @@ NeRF/
   model_train.py
   parser.py
 ```
-## Training (for LLFF, Blender dataset)  
-### trex config  
+## Training (only for LLFF, Blender)  
+### T-rex example
 ```
 python model_train.py --config configs/llff/trex.txt
 ```
-### horns config  
+### Horns example
 ```
 python model_train.py --config configs/LLFF/horns.txt
 ```
