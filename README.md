@@ -1,6 +1,7 @@
 # NeRF
 This repository is code factory that I reconstructed to study and customizing convenience.  
-Based code: (https://github.com/yenchenlin/nerf-pytorch)  
+[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+[Reference Code](https://github.com/yenchenlin/nerf-pytorch)  
 # Demo  
 ![trex](https://github.com/Doyosae/NeRF/blob/main/save/trex.gif)
 ![horns](https://github.com/Doyosae/NeRF/blob/main/save/horns.gif)
