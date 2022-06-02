@@ -5,8 +5,7 @@ This repository is code factory that I reconstructed to my research and customiz
 # Demo  
 ![trex](https://github.com/Doyosae/NeRF/blob/main/save/trex.gif)
 ![horns](https://github.com/Doyosae/NeRF/blob/main/save/horns.gif)
-# Start
-## Dataset  
+# Dataset  
 [Open Google Drive Download Link for LLFF, Blender](https://drive.google.com/file/d/1nSROtmcLvbx7xTC9lfumYhpB25zYqhuC/view?usp=sharing)  
 ```
 Folder hierarchy
@@ -20,16 +19,17 @@ NeRF/
   model_train.py
   parser.py
 ```
-## Training (only for LLFF, Blender)  
-### T-rex example
+# Training (only for LLFF, Blender)  
+## T-rex example
 ```
 python model_train.py --config configs/llff/trex.txt
 ```
-### Horns example
+## Horns example
 ```
 python model_train.py --config configs/LLFF/horns.txt
 ```
-## Evaluation
+# Evaluation
 ```
 Not implemented
 ```
+  
